@@ -1,0 +1,18 @@
+{
+  "model_name": "minirocket_plus",
+  "accuracy_mean": 0.7200767673761544,
+  "accuracy_std": 0.007193221366100135,
+  "f1_mean": 0.7137674603970008,
+  "f1_std": 0.008510746327131093,
+  "roc_auc_mean": 0.7865221367258307,
+  "roc_auc_std": 0.01311445905994325,
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "num_features": 12000,
+  "max_dilations_per_kernel": 40
+}
